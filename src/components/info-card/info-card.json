@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_info_card_info_cards",
+  "info": {
+    "displayName": "InfoCard"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}
