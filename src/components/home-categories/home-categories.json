@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home_categories_home_categories",
+  "info": {
+    "displayName": "Home-Categories",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": false,
+      "minLength": 4
+    },
+    "href": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    }
+  }
+}

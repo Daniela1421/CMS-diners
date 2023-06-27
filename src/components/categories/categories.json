@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_categories_categories",
+  "info": {
+    "displayName": "Categories",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "Subcategories": {
+      "type": "component",
+      "repeatable": true,
+      "component": "subcategories.subcategories"
+    }
+  }
+}
