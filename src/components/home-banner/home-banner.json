@@ -11,14 +11,6 @@
     },
     "href": {
       "type": "string"
-    },
-    "height": {
-      "type": "integer",
-      "default": 50
-    },
-    "width": {
-      "type": "integer",
-      "default": 150
     }
   }
 }
