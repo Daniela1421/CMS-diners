@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_price_diners_price_diners",
+  "info": {
+    "displayName": "Price-Diners",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "collectionId": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "percentage": {
+      "type": "boolean"
+    },
+    "price": {
+      "type": "decimal"
+    }
+  }
+}
