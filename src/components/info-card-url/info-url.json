@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_info_url_info_urls",
+  "info": {
+    "displayName": "InfoCardUrl",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}
