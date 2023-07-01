@@ -35,7 +35,7 @@
     "InfoUrl": {
       "type": "component",
       "repeatable": true,
-      "component": "info-card-url.info-url"
+      "component": "info-card.info-url"
     }
   }
 }

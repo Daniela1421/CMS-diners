@@ -1,11 +1,17 @@
 {
-  "collectionName": "components_info_card_info_cards",
+  "collectionName": "components_info_url_info_urls",
   "info": {
     "displayName": "InfoCard",
     "description": ""
   },
   "options": {},
   "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
     "title": {
       "type": "string"
     },
