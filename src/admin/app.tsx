@@ -28,6 +28,20 @@ export default {
       // 'zh-Hans',
       // 'zh',
     ],
+    theme: {
+      light: {
+        colors: {
+          primary100: '#114d97',
+          primary200: '#114d97',
+          primary500: '#114d97',
+          buttonPrimary500: '#114d97',
+          primary600: '#fff',
+          buttonPrimary600: '#fff',
+          primary700: '#fff',
+          secondary600: '#114d9',
+        }
+      }
+    }
   },
   bootstrap(app) {
     console.log(app);

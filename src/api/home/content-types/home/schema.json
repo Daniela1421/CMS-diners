@@ -32,7 +32,7 @@
       "repeatable": true,
       "component": "price-diners.price-diners"
     },
-    "InfoUrl": {
+    "InfoCard": {
       "type": "component",
       "repeatable": true,
       "component": "info-card.info-url"
