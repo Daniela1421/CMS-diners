@@ -9,9 +9,6 @@
     "text": {
       "type": "string"
     },
-    "href": {
-      "type": "string"
-    },
     "title": {
       "type": "string"
     },
